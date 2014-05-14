@@ -499,6 +499,10 @@ header.main .dark-header li a:hover {
 	display: block;
 }
 
+.right-column .comments .comment .image img:nth-child(1) {
+	height: 64px;
+}
+
 .right-column .comments .comment .text {
 	width: 573px;
 }
@@ -597,6 +601,6 @@ footer.main li a:hover {
 }
 
 .right-ans {
-	height: 200%;
+	height: 64px;
 }
 /*  end footer */
