@@ -148,29 +148,22 @@ textarea {
 	-moz-border-radius: 5px;
 	-o-border-radius: 5px;
 	border-top: 1px solid #abcadf;
-	border-bottom: 1px solid #0b386a;
-	background: #5293bf;
-	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#5293bf), to(#164e8e));
-	background: -webkit-linear-gradient(#5293bf, #164e8e);
-	background: -moz-linear-gradient(#5293bf, #164e8e);
-	background: -ms-linear-gradient(#5293bf, #164e8e);
-	background: -o-linear-gradient(#5293bf, #164e8e);
-	background: linear-gradient(#5293bf, #164e8e);
-	-pie-background: linear-gradient(#5293bf, #164e8e);
+	border-bottom: 1px solid #FF8C00;
+	background: #FF8C00;
 	behavior: url(pie/PIE.php);
 }
 
 .button:hover {
 	color: #fff;
 	position: relative;
-	background: #164e8e;
-	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#164e8e), to(#5293bf));
-	background: -webkit-linear-gradient(#164e8e, #5293bf);
-	background: -moz-linear-gradient(#164e8e, #5293bf);
-	background: -ms-linear-gradient(#164e8e, #5293bf);
-	background: -o-linear-gradient(#164e8e, #5293bf);
-	background: linear-gradient(#164e8e, #5293bf);
-	-pie-background: linear-gradient(#164e8e, #5293bf);
+	background: #FF8C00;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#FF8C00), to(#FFA500));
+	background: -webkit-linear-gradient(#FF8C00, #FFA500);
+	background: -moz-linear-gradient(#FF8C00, #FFA500);
+	background: -ms-linear-gradient(#FF8C00, #FFA500);
+	background: -o-linear-gradient(#FF8C00, #FFA500);
+	background: linear-gradient(#FF8C00, #FFA500);
+	-pie-background: linear-gradient(#FF8C00, #FFA500);
 	behavior: url(pie/PIE.php);
 }
 
