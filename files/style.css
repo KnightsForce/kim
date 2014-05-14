@@ -503,6 +503,11 @@ header.main .dark-header li a:hover {
 	height: 40px;
 } 
 
+.right-column .comments .comment .image img.end-img {
+	width: 36px;
+	height: 40px;
+}
+
 .right-column .comments .comment .text {
 	width: 573px;
 }
