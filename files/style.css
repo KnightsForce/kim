@@ -495,13 +495,13 @@ header.main .dark-header li a:hover {
 
 .right-column .comments .comment .image img {
 	width: 32px;
-	height: 32px;
+
 	display: block;
 }
 
-.right-column .comments .comment .image img:nth-child(1) {
-	height: 64px;
-}
+.right-column .right-ans {
+	height: 40px;
+} 
 
 .right-column .comments .comment .text {
 	width: 573px;
@@ -600,7 +600,5 @@ footer.main li a:hover {
 	color: #333;
 }
 
-.right-ans {
-	height: 64px;
-}
+
 /*  end footer */
