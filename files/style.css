@@ -71,6 +71,8 @@ ul li, ol li {
 	clear: both;
 }
 
+
+
 /* end global elements */
 
 /* !titles */
@@ -594,4 +596,7 @@ footer.main li a:hover {
 	color: #333;
 }
 
+.right-ans {
+	height: 200%;
+}
 /*  end footer */
