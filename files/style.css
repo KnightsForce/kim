@@ -167,6 +167,10 @@ textarea {
 	behavior: url(pie/PIE.php);
 }
 
+.table-img {
+	width: 570px;
+}
+
 /* end buttons */
 
 /* !table */
